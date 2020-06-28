@@ -1,0 +1,16 @@
+beautifulsoup4==4.7.1
+Flask==1.1.2
+Flask-Material==0.1.1
+html5lib==1.0.1
+Keras==2.3.1
+numpy==1.16.4
+pandas==0.24.2
+spacy==2.2.4
+future==0.18.2	
+urllib3==1.25.9
+gunicorn==19.9.0
+itsdangerous==1.1.0
+Jinja2==2.10.1
+MarkupSafe==1.1.1
+Werkzeug==0.15.5
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.1.0/en_core_web_sm-2.1.0.tar.gz#egg=en_core_web_sm
