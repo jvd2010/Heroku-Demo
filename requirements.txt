@@ -7,6 +7,6 @@ numpy==1.16.4
 pandas==0.24.2
 spacy==2.2.4
 future==0.18.2	
-urllib3==1.25.9
+urllib3==1.26.5
 gunicorn==20.0.4
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.1.0/en_core_web_sm-2.1.0.tar.gz#egg=en_core_web_sm
